@@ -33,7 +33,7 @@ Modify the README
 - Change the address for the Binder button...remember, the button is pointing at the *template*.  See below.
 
 How to get the Binder button code:
-- Go to [https://mybinder.org](https://mybinder.org)
+- Go to https://mybinder.org (in a new tab)
 - Paste the URL to *your* new repo
 - Put `index.ipynb` in the box for File
 - Where it says 'Expand to see...', click and copy the binder code.
