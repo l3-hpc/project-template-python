@@ -82,21 +82,22 @@ If you were modifying the **README.md** online, you will need to pull those in b
 **Contact me if you need help with git**.  We can develop some training and documentation based on what folks are having problems with.
 
 
-
 ## Do I have to use Binder to develop the Notebook?
-Nope.  If you are actively working on something, you probably want to develop locally.
 
-Beginners:
+If your Notebook is published and established, I think it is safer to modify things *within Binder* so you don't accidentally break your environment.  
+
+If you are developing a *new* Notebook, or need to make substantial changes, then I suggest...
+
+For beginners:
 - Install [Anaconda](https://www.anaconda.com)
 - Open Anaconda, Launch Jupyter Notebook
-- Find index.ipynb, modify, and save.
-When the Notebook is ready, use `git` as above to push changes
-
+- Find index.ipynb, or create a new file, modify, and save.
+When the Notebook is ready, use `git` as above to push changes.  Note: you can have several Notebooks in one GitHub repo.  
 
 Binder has to build your environment.  If new libraries are needed for script modifications, you may need to change the runtime, or install new packages.  That is what this file does
 - environment.yml
 
-Not Beginners:
+For Not Beginners:
 - It is better to install miniconda, create a yaml file with dependencies, then `conda env create`, for each project.  
 - [See this for more about Conda](https://hpc.ncsu.edu/Software/Apps.php?app=Conda)
 
@@ -105,4 +106,3 @@ Not Beginners:
 
 # Thank you!
 *This work is funded by the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194.*
-
