@@ -34,7 +34,7 @@ Modify the README
 
 How to get the Binder button code:
 - Go to https://mybinder.org (in a new tab)
-- Paste the URL to *your* new repo
+- Paste the URL to *your new repo*
 - Put `index.ipynb` in the box for File
 - Where it says 'Expand to see...', click and copy the binder code.
 
