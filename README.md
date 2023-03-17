@@ -87,9 +87,10 @@ If you were modifying the **README.md** online, you will need to pull those in b
 Nope.  If you are actively working on something, you probably want to develop locally.
 
 Beginners:
-- Download Anaconda
-- Open and develop the Notebook in Jupyter
-- Use git as above to push changes
+- Install [Anaconda](https://www.anaconda.com)
+- Open Anaconda, Launch Jupyter Notebook
+- Find index.ipynb, modify, and save.
+When the Notebook is ready, use `git` as above to push changes
 
 
 Binder has to build your environment.  If new libraries are needed for script modifications, you may need to change the runtime, or install new packages.  That is what this file does
