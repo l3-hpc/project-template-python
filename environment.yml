@@ -1,0 +1,11 @@
+name: project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - branca
+  - folium
+  - pandas
+  - matplotlib
+  - numpy
+  - wget
