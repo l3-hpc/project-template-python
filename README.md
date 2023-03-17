@@ -44,7 +44,7 @@ How to get the Binder button code:
 Test the Binder button:
 - Click the modified Binder button, and verify a working Notebook is being launched from *your new repo*.
 
-
+The first time you launch the Binder, it may take a long time.  Binder has to build an image with your new environment.  [More on Binder](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html)
 
 ## Modify the Notebook
 
