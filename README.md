@@ -2,7 +2,7 @@
 
 This is a template for creating a Jupyter Notebook in Python, originally created for NOAA RESTORE's:
 
-***Oysters, Blue Crabs, and Spotted Seatrout:** ***Building Resilience to Environmental Trends and Variability in the Gulf of Mexico***
+**Oysters, Blue Crabs, and Spotted Seatrout:** ***Building Resilience to Environmental Trends and Variability in the Gulf of Mexico***
 
 Using GitHub and Binder, share your work:
 - Describe your project
