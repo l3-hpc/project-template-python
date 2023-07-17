@@ -108,5 +108,5 @@ For Not Beginners:
 **Contact me if you need help with the environment.** We can develop some extra documentation based on what folks are having problems with.
 
 
-# Thank you NOAA!
-*This work was created by Lisa L. Lowe at NC State University, with funding from the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194.*
+# Thank you NOAA and NSF!
+*This work was funded by National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194. The modeling data is being hosted on Open Storage Network (OSN), through allocation EES210015 from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support, which is supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296.*
