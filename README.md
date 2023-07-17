@@ -18,7 +18,7 @@ This example repo uses Python.  ([Using R? Check Here.](https://github.com/OyBcS
 
 # Instructions
 
-## Create new repo from template
+## Create a new repo from template
 Starting from the landing page of this repo, click the green button `Use this template` then choose `Create a new respository`.
 
 Choose the Owner
