@@ -9,7 +9,9 @@ Using GitHub and Binder, share your work:
 - Add Lat/Lon information to make an interactive map of the study area and for station data
 - Do plots and analysis
 
-Click on the Binder link to open the Notebook.
+In this Notebook, we create an interactive map of station data, plot a time-series of temperature and salinity for a sample station, then download data and make plots for additional stations.
+
+Click on the Binder button to open the Notebook:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OyBcSt/project-template-python/HEAD?labpath=index.ipynb)
 
 This example repo uses Python.  ([Using R? Check Here.](https://github.com/OyBcSt/project-template-r))
