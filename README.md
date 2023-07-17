@@ -104,5 +104,5 @@ For Not Beginners:
 **Contact me if you need help with the environment.** We can develop some extra documentation based on what folks are having problems with.
 
 
-# Thank you!
+# Thank you NOAA!
 *This work was created by Lisa L. Lowe at NC State University, with funding from the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194.*
