@@ -23,7 +23,7 @@ Starting from the landing page of this repo, click the green button **Use this t
 
 Choose the Owner
 - If your project is NOAA RESTORE, please change **Owner** to **OyBcSt**.  
-- If you don't see OyBcSt as an option, [Contact Lisa](mailto:lllowe@ncsu.edu) to be added as a collaborator.  
+- If you don't see OyBcSt as an option, [Contact Lisa](mailto:lisalenorelowe@gmail.com) to be added as a collaborator.  
 
 Choose the Repository name
 - Choose something that indicates the *type* of project, e.g., hydro, climate, fisheries, etc.
